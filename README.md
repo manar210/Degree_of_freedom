@@ -11,3 +11,16 @@ https://www.onshape.com/en/ يمكنك زيارة الموقع على الراب
 ## Cinema 4D
  Cinema 4D ثانيا قمت بتركيب القطعة في برنامج
  
+( https://github.com/smart-methods/arduino_robot_arm ) أولا سوف نقوم بتحميل القطع من هذا الرابط
+
+لتنزيل القطع(arduino_robot_arm / robot_arm_pkg / meshes / stl) نذهب الى
+
+##### نبدا بتركيب القطع
+###### 1.Base
+###### 2.waist
+###### 3.Arm1
+###### 4.Arm2
+###### 5.here tou will put the (new part)
+###### 6.Gripper 
+
+
